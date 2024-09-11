@@ -1,1 +1,1 @@
-
+AgroVision: intelligent web application designed to help farmers and agricultural experts predict crop diseases using plant leaf images and recommend suitable crops based on environmental factors. Made in basic frontend like html,css, javascript and for back end we've used python with flask.
